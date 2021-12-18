@@ -9,6 +9,8 @@ An App for chatting
 
 [Run demo](https://hardcore-brattain-2812ca.netlify.app/)
 
+signin with username as Harrytimbog or Beulah, password as 123456
+
 ## Run Locally   
 
 Clone the project
