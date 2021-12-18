@@ -42,7 +42,7 @@ yarn start
 ```
 
 ### Environmental Variable
-Add your projectID
+Add your projectID from chatengine.io
 
 
 
